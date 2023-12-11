@@ -1,0 +1,99 @@
+.home{
+    padding-top: 4rem !important;
+}
+
+
+
+
+@media (max-width:768px) {
+    .home{
+        padding-top: 1rem !important;
+    }
+
+    .home img{
+        padding-top: 2rem !important;
+    }
+
+  
+}
+
+@media (max-width:768px) {
+    .home .baste{
+        height: 60px !important;
+    }
+
+    .home .roldu{
+        height: 60px !important;
+    }
+
+    .home .main{
+        height: 60px !important;
+    }
+}
+
+@media(max-width:768px) {
+    .rere{
+        width: 338% !important;
+        height: 25% !important;
+    }
+
+    .pito{
+        margin-left: 95% !important;
+        width: 300px !important;
+        
+    }
+}
+
+@media(max-width:768px) {
+    .beer{
+        margin-top: 240% !important;
+        margin-left: -118% !important;
+        width: 338% !important;
+        height: 25% !important;
+    }
+
+    .geger{
+        width: 300px !important;
+        margin-left: -21% !important;
+    }
+}
+
+@media (max-width:768px) {
+    .yami{
+        width: 338% !important;
+        height: 25% !important;
+        margin-left: -235% !important;
+        margin-top: 480% !important;
+    }
+
+    .baki{
+        margin-left: -160% !important;
+    }
+
+    .bitoy{
+        margin-left: -30% !important;
+    }
+}
+
+@media (max-width:768px) {
+    .mb-3{
+        width: 300% !important;
+        margin-left: -100%;
+    }
+
+    .relo{
+        width: 300% !important;
+        margin-left: -100% !important;
+    }
+}
+
+@media (max-width:768px) {
+    .col{
+        margin-left: 20% !important;
+    }
+
+}
+
+
+
+
